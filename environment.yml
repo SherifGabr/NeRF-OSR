@@ -1,4 +1,4 @@
-name: nerfplusplus
+name: nerfosr
 channels:
   - defaults
 dependencies:
